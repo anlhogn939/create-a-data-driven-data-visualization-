@@ -1,2 +1,19 @@
-# create-a-data-driven-data-visualization-
-A data-driven data visualization with a generator feature.
+# Create A Data-Driven Data Visualization Generator
+
+This repository contains an auto-generated Java file for:
+
+- create a data-driven data visualization generator
+- **Language**: Java
+
+## Description
+
+This file serves as a base implementation for the concept: *create a data-driven data visualization generator*.  
+It can be used for educational, prototyping, or inspiration purposes.
+
+## How to Use
+
+Clone the repo, open `4pub_create_a_data-d.java` and extend or run it according to your needs.
+
+---
+
+
